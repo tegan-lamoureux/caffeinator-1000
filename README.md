@@ -1,7 +1,7 @@
 # Caffeinator-1000
 Get in loser, we’re making coffee.
 
-![bad drawing](https://raw.githubusercontent.com/tegan-lamoureux/caffeinator-1000/main/IMG_3461.jpeg?token=GHSAT0AAAAAACMNWM4DL6TBJ2T63PMBOPHOZMYDB3A)
+![bad drawing](IMG_3461.jpeg)
 
 ## Ideas
 Replicate chemex / pour-over process, using gravity-fed water dispensing, sensors and electronic actuation to have complete control over the brewing process. Should work with any glass pour-over devices.
