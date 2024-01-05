@@ -8,6 +8,10 @@ Using a electronic valve and flow rate meter you can dispense water by-the-ml (g
 
 Using temperature sensors and pre-heat routines, you can dial in temperature at the exit of the nozzle to the exact degree C/F you desire.
 
+Pre-heat routine can pwm at-temp water through the system with a given dwell time. Calculate the temperature delta to get the desired temp at the outflow nozzle. 
+
+Small programmable hotplate for pre-heating and heat mitigation (control to the exact degree).
+
 Can program in bloom time, PWM the flow rate for brew time, etc. 
 
 ## Resources / Parts
